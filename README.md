@@ -5,8 +5,8 @@ This project focuses on replicating the layout, design, and user interface of Am
 
 ---
 
-## 🌐 Live Demo
-🚀 https://your-username.github.io/amazon-clone/
+## 🌐 Live Demo(please open in desktop)
+🚀 https://amazon-clone-jade-eight.vercel.app/
 
 ---
 
